@@ -1,10 +1,10 @@
 # Style-Transfer-from-Two-Styles
 Implemention of neural style transfer but taking styles from two separate style images
 
-![Alt text](turtle.jpg?raw=true "Content Image")
+Content Image: ![Alt text](turtle.jpg?raw=true "Content Image")
 
-![Alt text](newforest.jpg?raw=true "Style 1")
+Style Image 1: ![Alt text](newforest.jpg?raw=true "Style 1")
 
-![Alt text](picasso.jpg?raw=true "Style 2")
+Style Image 2: ![Alt text](picasso.jpg?raw=true "Style 2")
 
-![Alt text](coolturtle.jpg?raw=true "Output xD")
+Final output: ![Alt text](coolturtle.jpg?raw=true "Output xD")
