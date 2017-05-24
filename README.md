@@ -3,7 +3,7 @@ Implemention of neural style transfer but taking styles from two separate style 
 
 ![Alt text](turtle.jpg?raw=true "Content Image")
 
-![Alt text](forest.jpg?raw=true "Style 1")
+![Alt text](newforest.jpg?raw=true "Style 1")
 
 ![Alt text](picasso.jpg?raw=true "Style 2")
 
